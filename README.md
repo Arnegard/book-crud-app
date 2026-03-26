@@ -34,7 +34,7 @@ http://127.0.0.1:8000/docs
 - PUT /books/{id}
 - DELETE /books/{id}
 
-## Tekniker
+## Tech stack
 
 - FastAPI
 - React
